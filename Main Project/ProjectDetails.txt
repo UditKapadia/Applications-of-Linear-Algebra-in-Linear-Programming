@@ -1,0 +1,2 @@
+Applications of Linear Algebra in Linear and Non-Linear Programming.
+Project Details 

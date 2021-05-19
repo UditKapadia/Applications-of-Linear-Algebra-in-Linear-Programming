@@ -1,0 +1,20 @@
+1.  Apple
+2.  Banana
+3.  Bread 
+4.  Broccoli
+5.  Butter-milk
+6.  Chocolate
+7.  Dal
+8.  Dosa
+9.  Guava
+10. Honey
+11. Hotdog
+12. Ice-cream
+13. Milk
+14. Orange
+15. Pizza
+16. Potato
+17. Potato chips
+18. Rice
+19. Roti
+20. Tomato

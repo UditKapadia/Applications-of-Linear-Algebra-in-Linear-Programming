@@ -1,0 +1,21 @@
+Apple 20
+Banana 4
+Bread 1
+Broccali 35
+Butter milk 10 
+Chocolate 60
+Dal 60
+Dosa 80
+Guava 7
+Honey 150
+Hotdog 80
+Ice cream 20
+Milk 12
+Orange 2
+pizza 20
+Potato 5
+Potato chips 10
+Rice 50
+Roti 8
+Tomato 7
+
